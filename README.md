@@ -7,6 +7,4 @@ https://youtu.be/t-uAgI-AUxc?si=RzJDT3O0RMlxuwPz
 
 https://youtu.be/RQPpP2ywA9k?si=-nzKKsIFzDehrvvC
 
-https://zerotomastery.io/courses/django-bootcamp/
-
-https://www.udemy.com/course/the-ultimate-react-course/
+https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/
