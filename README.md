@@ -4,11 +4,8 @@ Contains the current technologies I am learning/ reading about.
 -- refactoring python codebase
 [https://youtu.be/_TjtAyMkiTI?si=7RXx8egh42RGDIMN](https://www.youtube.com/results?search_query=python+refactoring)
 
--- making a python library
-[https://youtu.be/t-uAgI-AUxc?si=RzJDT3O0RMlxuwPz](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
-
--- backtesting
-[https://youtu.be/RQPpP2ywA9k?si=-nzKKsIFzDehrvvC](https://kernc.github.io/backtesting.py/)
+-- felt
+https://flet.dev/docs/#flet-app-example
 
 -- variational auto encoders
 https://www.ibm.com/think/topics/variational-autoencoder
