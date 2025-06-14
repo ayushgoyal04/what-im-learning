@@ -7,11 +7,10 @@ Contains the current technologies I am learning/ reading about.
 -- felt
 https://flet.dev/docs/#flet-app-example
 
--- variational auto encoders
-https://www.ibm.com/think/topics/variational-autoencoder
+-- Go programming language
 
--- generative adverisal networks
-https://www.geeksforgeeks.org/generative-adversarial-network-gan/
+-- system design
+
 
 -- lcm
 https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/
